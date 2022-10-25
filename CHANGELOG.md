@@ -18,4 +18,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Unreleased]: https://github.com/sebimarkgraf/wrap-your-gym/tree/master
+[0.0.2]: https://github.com/sebimarkgraf/wrap-your-gym/releases/tag/0.0.2
 [0.0.1]: https://github.com/sebimarkgraf/wrap-your-gym/releases/tag/0.0.1

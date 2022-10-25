@@ -1,8 +1,8 @@
 # Wrap Your Gym!
 
 ![PyPI](https://img.shields.io/pypi/v/wrap-your-gym?style=flat-square)
-![GitHub Workflow Status (master)](https://img.shields.io/github/workflow/status/sebimarkgraf/wrap-your-gym/Test%20&%20Lint/master?style=flat-square)
-![Coveralls github branch](https://img.shields.io/coveralls/github/sebimarkgraf/wrap-your-gym/master?style=flat-square)
+![GitHub Workflow Status (master)](https://img.shields.io/github/workflow/status/sebimarkgraf/wrap-your-gym/Test%20&%20Lint/main?style=flat-square)
+![Coveralls github branch](https://img.shields.io/coveralls/github/sebimarkgraf/wrap-your-gym/main?style=flat-square)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/wrap-your-gym?style=flat-square)
 ![PyPI - License](https://img.shields.io/pypi/l/wrap-your-gym?style=flat-square)
 
