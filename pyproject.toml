@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "wrap_it"
+name = "wrap-it"
 version = "0.0.1"
 description = "Common OpenAI Gym Wrappers"
 authors = [
