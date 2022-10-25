@@ -1,6 +1,6 @@
 import torch
 
-from wrap_it.torch_wrappers import ObsPyTorchWrapper
+from wrap_your_gym.torch_wrappers import ObsPyTorchWrapper
 
 
 def test_obs_torch_wrapper(default_test_env):

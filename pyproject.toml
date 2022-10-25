@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "wrap-it"
-version = "0.0.1"
+name = "wrap-your-gym"
+version = "0.0.2"
 description = "Common OpenAI Gym Wrappers"
 authors = [
     "Sebastian Markgraf <sebastian-markgraf@t-online.de>",
@@ -9,9 +9,9 @@ authors = [
 license = "BSD-3-Clause"
 readme = "README.md"
 
-documentation = "https://github.com/sebimarkgraf/wrap_it/blob/main/README.md"
-homepage = "https://github.com/sebimarkgraf/wrap_it"
-repository = "https://github.com/sebimarkgraf/wrap_it"
+documentation = "https://github.com/sebimarkgraf/wrap-your-gym/blob/main/README.md"
+homepage = "https://github.com/sebimarkgraf/wrap-your-gym"
+repository = "https://github.com/sebimarkgraf/wrap-your-gym"
 
 classifiers = [
   "Development Status :: 4 - Beta",
@@ -28,9 +28,9 @@ classifiers = [
   "Typing :: Typed",
 ]
 
-include = ["wrap_it/py.typed"]
+include = ["wrap_your_gym/py.typed"]
 packages = [
-  { include = "wrap_it" },
+  { include = "wrap_your_gym" },
 ]
 
 [tool.poetry.dependencies]

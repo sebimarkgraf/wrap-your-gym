@@ -1,10 +1,10 @@
-# Wrap it!
+# Wrap Your Gym!
 
-![PyPI](https://img.shields.io/pypi/v/wrap_it?style=flat-square)
-![GitHub Workflow Status (master)](https://img.shields.io/github/workflow/status/sebimarkgraf/wrap_it/Test%20&%20Lint/master?style=flat-square)
-![Coveralls github branch](https://img.shields.io/coveralls/github/sebimarkgraf/wrap_it/master?style=flat-square)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/wrap_it?style=flat-square)
-![PyPI - License](https://img.shields.io/pypi/l/wrap_it?style=flat-square)
+![PyPI](https://img.shields.io/pypi/v/wrap-your-gym?style=flat-square)
+![GitHub Workflow Status (master)](https://img.shields.io/github/workflow/status/sebimarkgraf/wrap-your-gym/Test%20&%20Lint/master?style=flat-square)
+![Coveralls github branch](https://img.shields.io/coveralls/github/sebimarkgraf/wrap-your-gym/master?style=flat-square)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/wrap-your-gym?style=flat-square)
+![PyPI - License](https://img.shields.io/pypi/l/wrap-your-gym?style=flat-square)
 
 Common OpenAI gym wrappers found during my journeys.
 This repository collects a multitude of wrappers that I needed for my own implementation
@@ -25,7 +25,7 @@ StepAPICompability wrapper implemented in Gym.
 E.g.
 ```python
 from gym.wrappers import StepAPICompability
-from wrap_it import ResetObs
+from wrap_your_gym import ResetObs
 
 env = ... # Your Env
 env = StepAPICompability(env, truncated_bool=True)
@@ -44,7 +44,7 @@ env = StepAPICompability(env, truncated_bool=False) # depending on the API your 
 ## Installation
 
 ```sh
-pip install wrap_it
+pip install wrap-your-gym
 ```
 
 ## Development

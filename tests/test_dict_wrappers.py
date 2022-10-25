@@ -1,7 +1,7 @@
 import gym
 import pytest
 
-from wrap_it import ActionDict, ObsDict, ResetInObs, RewardInObs
+from wrap_your_gym import ActionDict, ObsDict, ResetInObs, RewardInObs
 
 
 def test_obs_dict_wrapper(default_test_env):
